@@ -26,7 +26,7 @@
 > > + 启动服务
 > >
 > > ```
-> > yarn server
+> > yarn start
 > > ```
 >
 > 
