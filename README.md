@@ -1,0 +1,2 @@
+# Face_Recognition_Application
+使用Faceapi+Electron框架，封装的脸部捕捉桌面应用
